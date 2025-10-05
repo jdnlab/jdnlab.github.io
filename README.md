@@ -4,8 +4,8 @@ I architect, automate, and secure resilient technical infrastructure. My passion
 
 ## 🚀 What I Do
 
-- **☁️ Infrastructure Engineering (Cloud and Data Center):** Designing, deploying, and optimizing Linux-based systems up to thousands of nodes
-- **⚙️ Internal Tooling:** Developing software tools that eliminate toil, such as vulnerability remediation pipelines and DFIR automation.
+- **☁️ Infrastructure Engineering (Cloud and Data Center):** Designing, deploying, and optimizing Linux-based systems up to thousands of servers.
+- **⚙️ Internal Tooling:** Developing software tools that eliminate manual toil, such as vulnerability remediation pipelines and digital forensics and incident response automation.
 - **🔒 Security Automation:** Building and orchestrating security responses with custom Python tooling and commercial SOAR platforms.
 - **🛠️ SRE & Observability:** Implementing SRE practices to improve system reliability, from reducing MTTR with automated diagnostics to building robust monitoring systems.
 
