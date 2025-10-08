@@ -1,10 +1,10 @@
-I architect, automate, and secure resilient technical infrastructure. My passion is building systems that are not only scalable and cost-effective but also secure by design. Specifically, I have significant interest in Linux, Python, and AWS.
+I am a Linux Systems Engineer / Site Reliability Engineer (SRE) with 8 years of proven industry experience in service provider and financial services institutions. I architect, automate, and secure resilient technical infrastructure. My passion is building systems that are not only scalable and cost-effective but also secure by design. I have significant interests in Linux system administration, Python code development, virtualized infrastructure, and security.
 
 ## What I Do
 
 - **Infrastructure Engineering (Cloud and Data Center):** Designing, deploying, and optimizing Linux-based systems up to thousands of servers.
-- **Systems Tooling:** Developing software tools that eliminate manual toil, such as vulnerability remediation pipelines and digital forensics and incident response automation.
-- **Security Automation:** Building and orchestrating security responses with custom Python tooling and commercial SOAR platforms.
+- **Systems Automation:** Developing software code that eliminates manual operations toil, such as system provisioning, server fleet maintenance, or data migrations.
+- **Security Automation:** Building and orchestrating security responses using custom Python tooling and/or commercial SOAR platforms.
 - **SRE & Observability:** Implementing SRE practices to improve system reliability, from reducing MTTR with automated diagnostics to building robust monitoring systems.
 
 ## Selected Projects
@@ -26,8 +26,8 @@ I architect, automate, and secure resilient technical infrastructure. My passion
 
 ### Serverless Auto-Remediation for Noncompliant Infrastructure
 
-- Contributed Python components for a AWS security compliance engine built on AWS Lambda, [which was showcased at AWS re:Inforce 2019](https://www.youtube.com/watch?v=P4jxJJYiVY0)
-- Automated manual deployment toil across many AWS accounts via IaC tools (Terraform, Jenkins).
+- Prevented insecure AWS infrastructure deployments by contributing Python components for a security compliance engine built on AWS Lambda, [which was showcased at AWS re:Inforce 2019](https://www.youtube.com/watch?v=P4jxJJYiVY0)
+- Automated manual deployment toil for this service across many AWS accounts via IaC tools (Terraform, Jenkins)
 
 ## Technical Skills
 
@@ -40,4 +40,4 @@ I architect, automate, and secure resilient technical infrastructure. My passion
 ## Contact
 
 - **Email:** [yxjames+inquiry@gmail.com](mailto:yxjames+inquiry@gmail.com)
-- **Resume:** Available On-Request
+- **Resume:** Available On Request
