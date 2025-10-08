@@ -1,15 +1,13 @@
-## Senior Systems Engineer / SRE
-
 I architect, automate, and secure resilient technical infrastructure. My passion is building systems that are not only scalable and cost-effective but also secure by design. Specifically, I have significant interest in Linux, Python, and AWS.
 
-## 🚀 What I Do
+## What I Do
 
-- **☁️ Infrastructure Engineering (Cloud and Data Center):** Designing, deploying, and optimizing Linux-based systems up to thousands of servers.
-- **⚙️ Internal Tooling:** Developing software tools that eliminate manual toil, such as vulnerability remediation pipelines and digital forensics and incident response automation.
-- **🔒 Security Automation:** Building and orchestrating security responses with custom Python tooling and commercial SOAR platforms.
-- **🛠️ SRE & Observability:** Implementing SRE practices to improve system reliability, from reducing MTTR with automated diagnostics to building robust monitoring systems.
+- **Infrastructure Engineering (Cloud and Data Center):** Designing, deploying, and optimizing Linux-based systems up to thousands of servers.
+- **Systems Tooling:** Developing software tools that eliminate manual toil, such as vulnerability remediation pipelines and digital forensics and incident response automation.
+- **Security Automation:** Building and orchestrating security responses with custom Python tooling and commercial SOAR platforms.
+- **SRE & Observability:** Implementing SRE practices to improve system reliability, from reducing MTTR with automated diagnostics to building robust monitoring systems.
 
-## 💼 Featured Projects
+## Selected Projects
 
 ### Critical Data Center Power Telemetry
 
@@ -26,20 +24,20 @@ I architect, automate, and secure resilient technical infrastructure. My passion
 - Enabled DFIR teams to investigate compromised credentials in seconds via building foundational Python code leveraging LDAPV3
 - Overcame challenges with on-premises platforms such as custom [Oracle ODSEE](https://www.oracle.com/security/identity-management/technologies/directory-server-enterprise-edition/) and [NetIQ Identity Manager](https://www.netiq.com/documentation/identity-manager/)
 
-### Auto-Remediation for Noncompliant Infrastructure
+### Serverless Auto-Remediation for Noncompliant Infrastructure
 
 - Contributed Python components for a AWS security compliance engine built on AWS Lambda, [which was showcased at AWS re:Inforce 2019](https://www.youtube.com/watch?v=P4jxJJYiVY0)
 - Automated manual deployment toil across many AWS accounts via IaC tools (Terraform, Jenkins).
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-- **Operating Systems**: Linux (Troubleshooting, Storage, Containers, Networking, Monitoring)
+- **Operating Systems**: Linux Systems Administration (Troubleshooting, Storage, Containers, Networking, Monitoring)
 - **Languages & Scripting:** Python, Bash
 - **Cloud & IaC:** AWS (EC2, S3, IAM, VPC, Lambda), Terraform, Ansible, Chef, Docker, Kubernetes, SaltStack
 - **Security & Monitoring:** XSOAR, Vault, Splunk, Datadog
 - **Networking**: TCP/UDP, IPv4, DNS, HTTP, SSL/TLS, LDAP, Kerberos, SNMPv3
 
-## 📫 Let's Connect
+## Contact
 
-- **Email:** [yxjames+ghinq@gmail.com](mailto:yxjames+ghinq@gmail.com)
+- **Email:** [yxjames+inquiry@gmail.com](mailto:yxjames+inquiry@gmail.com)
 - **Resume:** Available On-Request
