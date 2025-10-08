@@ -1,4 +1,4 @@
-I architect, automate, and secure resilient technical infrastructure, with proven experience in service provider and financial institutions. My passion is building systems that are not only scalable and cost-effective but also secure by design. I have significant interests in Linux system administration, Python code development, virtualized infrastructure, and security.
+I architect, automate, and secure resilient technical infrastructure, with proven experience in large cloud service provider and financial institutions. My passion is building systems that are not only scalable and cost-effective but also secure by design. I have significant interests in Linux system administration, Python code development, virtualized infrastructure, and security.
 
 ## What I Do
 
