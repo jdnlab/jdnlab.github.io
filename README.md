@@ -1,4 +1,4 @@
-I am a Linux Systems Engineer / Site Reliability Engineer (SRE) with 8 years of proven industry experience in service provider and financial services institutions. I architect, automate, and secure resilient technical infrastructure. My passion is building systems that are not only scalable and cost-effective but also secure by design. I have significant interests in Linux system administration, Python code development, virtualized infrastructure, and security.
+I architect, automate, and secure resilient technical infrastructure, with proven experience in service provider and financial institutions. My passion is building systems that are not only scalable and cost-effective but also secure by design. I have significant interests in Linux system administration, Python code development, virtualized infrastructure, and security.
 
 ## What I Do
 
