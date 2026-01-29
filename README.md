@@ -42,8 +42,3 @@ I architect, automate, and secure resilient technical infrastructure, with prove
 - **Cloud & Virtualization:** AWS (EC2, S3, IAM, VPC, Lambda), Docker, Kubernetes
 - **Security & Monitoring:** XSOAR, Vault, Splunk, Datadog
 - **Networking**: TCP/UDP, IPv4, DNS, HTTP, SSL/TLS, LDAP, Kerberos, SNMPv3
-
-## Contact
-
-- **Email:** [yxjames+inquiry@gmail.com](mailto:yxjames+inquiry@gmail.com)
-- **Resume:** Available On Request
